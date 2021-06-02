@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexey\\Desktop\\BeerApi\\BeerApi.csproj": {}
+    "C:\\Users\\Alexey\\Desktop\\1231\\BeerApi\\BeerApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexey\\Desktop\\BeerApi\\BeerApi.csproj": {
+    "C:\\Users\\Alexey\\Desktop\\1231\\BeerApi\\BeerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexey\\Desktop\\BeerApi\\BeerApi.csproj",
+        "projectUniqueName": "C:\\Users\\Alexey\\Desktop\\1231\\BeerApi\\BeerApi.csproj",
         "projectName": "BeerApi",
-        "projectPath": "C:\\Users\\Alexey\\Desktop\\BeerApi\\BeerApi.csproj",
+        "projectPath": "C:\\Users\\Alexey\\Desktop\\1231\\BeerApi\\BeerApi.csproj",
         "packagesPath": "C:\\Users\\Alexey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexey\\Desktop\\BeerApi\\obj\\",
+        "outputPath": "C:\\Users\\Alexey\\Desktop\\1231\\BeerApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexey\\AppData\\Roaming\\NuGet\\NuGet.Config",
